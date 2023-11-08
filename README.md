@@ -16,11 +16,11 @@ Showcasing how to read and insert data into JSON files.
 
 # Functions
 
-### returnJson(args: JsonFilePath)
+## returnJson(args: JsonFilePath)
 
 Returns a table with the JSON data.
 
-### insertDataIntoJson(args: JsonFilePath, arrayData)
+## insertDataIntoJson(args: JsonFilePath, arrayData)
 
 Inserts array/dictionary into the JSON file.
 
